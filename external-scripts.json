@@ -1,12 +1,19 @@
 [
   "hubot-diagnostics",
   "hubot-help",
-  "hubot-heroku-keepalive",
   "hubot-google-images",
   "hubot-google-translate",
-  "hubot-pugme",
   "hubot-maps",
   "hubot-redis-brain",
   "hubot-rules",
-  "hubot-shipit"
+  "hubot-shipit",
+  "hubot-semaphoreapp",
+  "hubot-pugme",
+  "hubot-insulter",
+  "hubot-darksky",
+  "hubot-fliptable",
+  "hubot-flirt",
+  "hubot-yourface",
+  "hubot-maps",
+  "hubot-alias"
 ]
