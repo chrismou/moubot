@@ -15,5 +15,7 @@
   "hubot-flirt",
   "hubot-yourface",
   "hubot-maps",
-  "hubot-alias"
+  "hubot-alias",
+  "hubot-devops-reactions",
+  "hubot-nationalrail"
 ]
