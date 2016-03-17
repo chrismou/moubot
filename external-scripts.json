@@ -15,5 +15,6 @@
   "hubot-yourface",
   "hubot-maps",
   "hubot-alias",
-  "hubot-nationalrail"
+  "hubot-nationalrail",
+  "hubot-marvin",
 ]
